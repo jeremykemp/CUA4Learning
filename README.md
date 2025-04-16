@@ -1,4 +1,4 @@
-# CUA4Learning
+# CUA4Learning - (Computer-Using Agents for Learning)
 A set of materials for students using Computer Using Agents to learn how to use existing design rules of thumb and build their own
 CUA for Learning
 Empowering Students to Evaluate Interfaces with Computer-Using Agents
